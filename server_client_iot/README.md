@@ -1,6 +1,7 @@
 Device and Application side code
 
 client.py -> send data from device to IoTF and listen to Commands from application.
+
 server.py -> recieve data from IoTF that is indirectly from the device, also has the feature to send commands to the device.
 
 here is the breif documentation,
